@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6edf24df-b6e5-41ad-9e92-97ab7e33837c" name="Changes" comment="" />
+    <list default="true" id="6edf24df-b6e5-41ad-9e92-97ab7e33837c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +13,23 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2LgnrsALGb4KRbU40YzEV3WeRgH" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -20,9 +38,18 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Salma/Desktop/Miaesthetic-master/Miaesthetic-master",
+    "list.type.of.created.stylesheet": "CSS"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\TI2_projet\admin" />
+      <recent name="C:\laragon\www\TI2_projet\admin\lib\php" />
+      <recent name="C:\laragon\www\TI2_projet\admin\lib" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,7 +58,40 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676301797823</updated>
+      <workItem from="1676301802111" duration="885000" />
+      <workItem from="1676445782602" duration="25000" />
+      <workItem from="1676465113292" duration="5496000" />
+      <workItem from="1676478155886" duration="36000" />
+      <workItem from="1678020908088" duration="4264000" />
+      <workItem from="1678267959554" duration="17000" />
+      <workItem from="1678710102184" duration="1831000" />
+      <workItem from="1680555266207" duration="20895000" />
+      <workItem from="1681905167911" duration="1152000" />
+      <workItem from="1681982050501" duration="13000" />
+      <workItem from="1682509077672" duration="605000" />
+      <workItem from="1682510338042" duration="3106000" />
+      <workItem from="1682972368094" duration="8686000" />
+      <workItem from="1683378502782" duration="9870000" />
+      <workItem from="1683718157678" duration="6529000" />
+      <workItem from="1685993858786" duration="4490000" />
+      <workItem from="1686498991018" duration="12601000" />
+      <workItem from="1686551713088" duration="13000" />
+      <workItem from="1686605148958" duration="4509000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
